@@ -1,4 +1,5 @@
 # CAPP Camp Git Lab
+# Vyshnavi Voleti
 
 Like yesterday's lab, today's lab will ask you to take some steps with Git and run a `check.py` script as you go.
 
